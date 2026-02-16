@@ -1,2 +1,5 @@
 # drpulatov.uz
-Dental clinic website for Dr. Pulatov (drpulatov.uz). Built with PHP and integrated with a Telegram bot for online appointment booking.
+Simple and functional dental clinic website for Dr. Pulatov. Patients can book appointments directly through the site, with submissions instantly delivered via a Telegram bot notification. Built with PHP and designed for real-world clinical use.
+
+Website: drpulatov.uz
+Telegram bot: t.me/drpulatov_bot
